@@ -1,2 +1,2 @@
-# TL-AFT
-This supplementary material contains programming code and workspace for simulation and real data analysis
+real data analysis R code.zip: A folder containing programming code for real data analysis
+simulation R code.zip: A folder containing programming code for simulation studies
